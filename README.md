@@ -23,5 +23,5 @@ quasar build
 ### Customize the configuration
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-vite/quasar-config-js).
 
-`src\assets\Todo App Mobile.png`
+![alt text](https://github.com/MiN6JI/todo-app/blob/main/src/assets/Todo%20App%20Mobile.png?raw=true)
 
